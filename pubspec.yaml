@@ -48,6 +48,12 @@ flutter:
     - family: Bee
       fonts:
         - asset: assets/bee.ttf
+    - family: Peu
+      fonts:
+        - asset: assets/peu.ttf
+    - family: Let
+      fonts:
+        - asset: assets/let.ttf
 
   # The following line ensures that the Material Icons font is
   # included with your application, so that you can use the icons in
